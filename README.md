@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐱‍💻 **I am inspired by the world of information security** to collaborate on creative solutions to dynamic challenges. I gain satisfaction from working with others and fostering a positive and exciting work environment, and intend for my balance between software and communication skills to help my team exceed all security goal expectations.
+🐱‍💻 **I am inspired by the world of information security** to collaborate on creative solutions for dynamic challenges. I gain satisfaction from working with others and fostering a positive environment, and intend for my balance between software and communication skills to help my team exceed all security goal expectations.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
